@@ -1,0 +1,7 @@
+.env
+.python-version
+.qdrant/
+.vscode/
+__pycache__/
+data
+code_example/
